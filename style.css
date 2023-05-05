@@ -1,0 +1,83 @@
+*{
+  scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("Stardew-Valley.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.pou{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #ffffff;
+}
+
+p{
+  font-size:40px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+img{
+  width: 400px;
+
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+#juja{
+  width: 700px;
+}
+
+#abc{
+  width: 300px;
+  height: 225px;
+}
+
+#abcd{
+  width: 300px;
+  height: 400px;
+}
+
+.img2{
+  width: 200px;
+  height: 200px;
+}
+
+.img3{
+  width: 700px;
+  height: 400px;
+}
+
+a{
+  text-decoration: none;
+  text-shadow: #ffffff;
+  padding: 15px;
+  border: 2px solid rgba(238, 255, 0, 0);
+  background-color: rgba(0, 0, 0, 0.486);
+  color: #ffffff;
+  box-shadow: 0 0 20px rgba(238, 255, 0, 0);
+  font-size: 30px;
+  text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+  margin: 0px 20px;
+}
+
+a:hover{
+  background-color: #000000;
+  color: #ffffff;
+  transition: .3s all;
+
+}

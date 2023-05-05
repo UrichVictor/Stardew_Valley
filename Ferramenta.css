@@ -1,0 +1,32 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+      background-image: url("Stardew.jpg");
+      background-size: 100%;
+      background-attachment: fixed;
+}
+
+img{
+    width: 400px;
+  
+}
+
+.pou{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #ffffff;
+}
+
+p{
+    font-size:40px;
+}
+  
+h2{
+    font-size: 40px;
+}
